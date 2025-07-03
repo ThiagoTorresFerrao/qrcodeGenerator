@@ -33,19 +33,6 @@ QR Code Generator is a simple and efficient tool that generates personalized QR 
 
 ## 🤝 Collaborators
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ThiagoTorresFerrao">
-        <img src="https://avatars.githubusercontent.com/u/137134010?v=4" width="100px;" alt="Foto de Thiago Torres no GitHub"/><br>
-        <sub>
-          <b>ThiagoTorres</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## :dart: Project status
 * Concluded! :ballot_box_with_check:
 
@@ -56,7 +43,7 @@ LinkedIn • Portfólio
 This project is open for educational and non-commercial use.
 
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thiago-f-torres/" target="_blank">
