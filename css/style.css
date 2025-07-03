@@ -8,7 +8,11 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background: #af5bd3;
+  background-image: url('../img/Bg.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .inputs input,
