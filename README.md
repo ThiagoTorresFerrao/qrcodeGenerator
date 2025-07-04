@@ -1,5 +1,7 @@
 <h1 align="center"> QR Code Generator </h1>
 
+[QrCodeGenerator - Click here](https://thiagotorresferrao.github.io/qrcodeGenerator/)
+
 <p align="center">
 The QR Code Generator project generates personalized QR codes from text and allows the user to download the QR code as a PNG file. This tool makes it easy and fast to create custom QR codes that can be used for various purposes, such as sharing information at events or printing on business cards. The interface is intuitive and user-friendly, making the creation of personalized QR codes a simple task. In summary, QR Code Generator is a practical solution for anyone who needs to create custom QR codes quickly and efficiently.
 <br/>
