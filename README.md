@@ -31,8 +31,6 @@ This project was developed with the following technologies:
 ## 💻 Project
 QR Code Generator is a simple and efficient tool that generates personalized QR codes from text and allows downloading in PNG format for use in various purposes.
 
-- [Online Project!](Link aqui do projeto)
-
 ## 🤝 Collaborators
 
 ## :dart: Project status
